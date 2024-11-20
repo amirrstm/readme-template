@@ -1,4 +1,5 @@
 # Readme Best Practices
+
 > A place to copy-paste your README.md from
 
 One of the most crucial things in your open-source project is the `README.md`
@@ -11,7 +12,7 @@ Copy the `README-default.md` file for yourself and start editing! At the root of
 your project, run:
 
 ```shell
-curl https://raw.githubusercontent.com/jehna/readme-best-practices/master/README-default.md > README.md
+curl https://raw.githubusercontent.com/amirrstm/readme-template/main/README-default.md > README.md
 ```
 
 The code above fetches the `README-default.md` file from this repository and
@@ -46,9 +47,10 @@ and pushes it to GitHub (or your preferred remote repository).
 ## Features
 
 This project makes it easy to:
-* Bootstrap your open-source project properly
-* Make sure everyone gets what you're trying to achieve with your project
-* Follow simple instructions for a perfect `README.md`
+
+- Bootstrap your open-source project properly
+- Make sure everyone gets what you're trying to achieve with your project
+- Follow simple instructions for a perfect `README.md`
 
 ## Contributing
 
@@ -73,7 +75,6 @@ creating the best possible README for your own project:
 
 - [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [A list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
-- [Akash Nimare's kickass README guide](https://gist.github.com/akashnimare/7b065c12d9750578de8e705fb4771d2f)
 - [Dan Bader's README template](https://github.com/dbader/readme-template)
 
 ## Licensing
@@ -81,4 +82,4 @@ creating the best possible README for your own project:
 This project is licensed under an Unlicense license. This license does not require
 you to take the license with you to your project.
 
-[issues]:https://github.com/jehna/readme-best-practices/issues/new
+[issues]: https://github.com/amirrstm/readme-template/issues/new
