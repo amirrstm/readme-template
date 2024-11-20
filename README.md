@@ -1,4 +1,4 @@
-# Readme Best Practices
+# Readme Template
 
 > A place to copy-paste your README.md from
 
