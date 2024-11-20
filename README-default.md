@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/amirrstm/readme-template/main/sample-logo.png)
+![Logo of the project](https://raw.githubusercontent.com/amirrstm/readme-template/refs/heads/main/Sample%20Logo.png)
 
 # Name of the project
 
